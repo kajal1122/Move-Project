@@ -1,0 +1,29 @@
+.main-wrapper
+{
+  background: url(youth1.jpg) center;
+  text-align: center;
+  height: 600px;;
+  color: #28B463;
+  padding-top: 40px;
+
+}
+h1
+{
+  font-size: 9rem;
+  padding-top: 50px;
+  text-transform: uppercase;
+
+}
+p
+{
+  font-size: 1.5rem;
+  color: white;
+}
+.button
+{
+  background:black;
+}
+.button:hover
+{
+  background: #288463;
+}
