@@ -1,23 +1,34 @@
 .main-wrapper
 {
-  background: url(youth1.jpg) center;
+  background: url(climb2.jpg) ;
+
   text-align: center;
-  height: 600px;;
+  height: 900px;
+  color: #3C08F8    ;
+  padding-top: 70px;
+
+}
+.main-sub-wrapper
+{
+  text-align: center;
+  height: 800px;
   color: #28B463;
-  padding-top: 40px;
+  padding-top: 100px;
 
 }
 h1
 {
-  font-size: 9rem;
+  font-size: 8rem;
   padding-top: 50px;
   text-transform: uppercase;
+  font-weight: bold;
 
 }
 p
 {
-  font-size: 1.5rem;
-  color: white;
+  font-size: 2rem;
+  color:#EA0707;
+  font-weight: bold;
 }
 .button
 {
@@ -27,9 +38,59 @@ p
 {
   background: #288463;
 }
+.main-sub-wrapper
+{
+  background: url(youth1.jpg);
+}
+h2
+{
+  font-size: 3rem;
+  text-transform: uppercase;
+  color: white;
+
+}
+.tasks
+{
+  color: yellow;
+  background-color: black;
+  text-transform: uppercase;
+  padding-top: 5px;
+  text-align: center;
+  height: 250px;
+  padding-left: 11%;
+  padding-right: 11%;
+
+
+}
+.coltaskh
+{
+  font-size: 2rem;
+
+  text-align: center;
+
+}
+.coltaskp
+{
+  font-size: 1rem;
+
+  text-align: center;
+}
+.learnbar
+{
+  text-align: center;
+  background-color: black;
+  height: 250px;
+
+}
+.coltaskh3
+{
+  color: yellow;
+  font-size: 2rem;
+}
 .sub-wrapper
 {
   background: url(swim.jpg);
+
   text-align: center;
   height: 600px;
   padding: 60px;
@@ -38,7 +99,7 @@ p
 }
 h3
 {
-  font-size: 3rem;
+  font-size: 2.5rem;
   padding-top: 50px;
   text-transform: uppercase;
   padding top: 40px;
@@ -48,10 +109,14 @@ h3
 {
   background: black;
   text-transform: uppercase;
-  
+
 
 }
 .button1:hover
 {
   background: #288463;
+}
+.subtask
+{
+  background color: black;
 }
